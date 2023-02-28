@@ -5,7 +5,7 @@ import Mountain4 from "../assets/4.jpg";
 import DestinationData from "./DestinationData";
 import "./DestinationStyles.css";
 
-const Destination = () => {
+function Destination = () => {
   return (
     <div className="destination">
       <h1>Popular Destinations</h1>
