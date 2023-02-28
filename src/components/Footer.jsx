@@ -1,6 +1,6 @@
 import "./FooterStyles.css";
 
-const Footer = () => {
+function Footer = () => {
   return (
     <div className="footer">
       <div className="top">
